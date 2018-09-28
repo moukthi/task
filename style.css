@@ -1,0 +1,9 @@
+.parent{
+  display:flex;
+  flex-direction: row;
+  justify-content:center;
+}
+.child{
+  margin:2%;
+  
+}
